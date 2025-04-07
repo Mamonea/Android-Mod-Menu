@@ -1,3 +1,4 @@
+
 # Introduction
 ![GitHub](https://img.shields.io/github/license/LGLTeam/Android-Mod-Menu?style=flat-square)
 
@@ -50,3 +51,7 @@ Thanks to the following individuals whose code helped me develop this mod menu
 This project is for Educational Use only. We do not condone this project being used to gain an advantage against other people. This project was made for fun
 
 While commecial use/selling is allowed, we still strongly refrain you from buying any source codes on Telegram even if the author can be trusted, there is always a risk getting scammed. We will not be responsible for that. This project is always FREE to use
+
+# Android-Mod-Menu
+Android Mod Menu
+
